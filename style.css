@@ -11,6 +11,10 @@ body {
   max-width: 1120px;
 }
 
+main {
+  margin: 0 16px;
+}
+
 .topico {
   color: #E1624F;
   text-transform: uppercase;
