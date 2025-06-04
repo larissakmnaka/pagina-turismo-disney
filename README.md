@@ -6,7 +6,7 @@ Esse é um dos desafios práticos da formação Full-Stack, conteúdo de especia
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto-original">Projeto</a>
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
